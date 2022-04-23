@@ -1,12 +1,20 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
-### <div align="center">I'm Dina Abd El-Halim, DevOps Engineer 👨‍💻</div>  
+
+<div align="center">I'm Dina Abd El-Halim, DevOps Engineer 👨‍💻</div>  
+
+
 - 🌱 I’m currently learning DevOps Tools
+
 - ❓ Ask me about anything related to DevOps field
+
 - 💞️ I’m looking to collaborate on Open Source Projects
+
 - 🤓 Always learning new things
+
 - 📫 How to reach me dinaabdelhalim49@gmail.com
+
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/11-9gx2zOeQOZ9kKK4fMHAoM4fnrmLLdW/view?usp=sharing">Resume</a>
  
 
