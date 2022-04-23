@@ -1,11 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
-
 ### <div align="center">I'm Dina Abd El-Halim, DevOps Engineer 👨‍💻</div>  
-
-
 - 🌱 I’m currently learning DevOps Tools
 - ❓ Ask me about anything related to DevOps field
 - 💞️ I’m looking to collaborate on Open Source Projects
