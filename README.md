@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-icon.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="skills-assets/docker-icon.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -37,3 +37,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/dina-abd-elhalim-414659217" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="dinaabdelhalim49@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%231E77B5.svg?&style=for-the-badge&logo=gmail&logoColor=cinnabar alt=linkedin style="margin-bottom: 5px;" />
+</a>   
+  
+  
