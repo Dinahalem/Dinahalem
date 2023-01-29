@@ -15,7 +15,7 @@
 
 - 📫 How to reach me dinaabdelhalim49@gmail.com
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/11-9gx2zOeQOZ9kKK4fMHAoM4fnrmLLdW/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1CHgPEikiA34oP8nBUOIVKdVjMmr--Irn/view?usp=sharing">Resume</a>
  
 
 <!---
